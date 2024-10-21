@@ -11,11 +11,12 @@ body {
     padding: 20px;
     justify-content: space-between;
     align-items: center;
-    display: flex;
 
 }
-
+.banner-header{
+    display: flex;
+}
 .banner-image{
-    height:150px;
-    margin-left: 170px;
+    height:100px;
+    margin-left: 1020px;
 }
