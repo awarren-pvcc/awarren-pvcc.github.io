@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(30, 30, 30);
+    
+}
+
+.banner {
+    background-color: wheat;
+    color: black;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.banner-header{
+    display: flex;
+}
+.banner-image{
+    height:100px;
+    margin-left: 1020px;
+}
